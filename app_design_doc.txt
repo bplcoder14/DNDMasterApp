@@ -1,0 +1,12 @@
+front end = django, html/css with bootstrap
+back end = mySQL, SQLAlcamy
+
+pages list:
+login
+sign up
+home
+settings
+
+
+
+manage character sheet for in person play of dnd
